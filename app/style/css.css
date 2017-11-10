@@ -1,8 +1,0 @@
-/*@import "less.less";*/
-
-#root {
-    width: 400px;
-    height: 200px;
-    background-color: grey;
-    transform:rotate(45deg);
-}
